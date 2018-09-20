@@ -1,1 +1,1 @@
-# vagrant-hadoop-spark
+# Hadoop + Spark - Vagrant Box
